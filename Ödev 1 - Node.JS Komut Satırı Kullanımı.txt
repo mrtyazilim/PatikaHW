@@ -1,0 +1,3 @@
+console.log("Alan hesabý için yarý çapý giriniz:");  
+let yariCap=prompt();
+console.log("Yarý çapý, " + yariCap + " olan dairenin alaný: " + (yariCap*yariCap)*3.14);
